@@ -3,12 +3,12 @@
   "features": {
     "ghcr.io/devcontainers-contrib/features/vault-asdf:2": {
       "version" : "latest"
-    }
-  }
+    }, 
    "ghcr.io/devcontainers/features/sshd:1": {                 
       "version" : "latest"
-  }
+  },
   "ghcr.io/devcontainers-contrib/features/cloudflared:1": {
     "version" : "latest"
   }
+}
 }
